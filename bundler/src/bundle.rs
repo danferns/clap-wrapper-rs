@@ -270,6 +270,8 @@ fn info_plist_auv2(
         <string>{}</string>
         <key>version</key>
         <integer>{}</integer>
+        <key>sandboxSafe</key>
+        <true/>
         <key>resourceUsage</key>
         <dict>
            <key>network.client</key>
